@@ -1,7 +1,7 @@
 # Calculator
 [Calculator.txt](https://github.com/vishu7141/Calculator/files/10336823/Calculator.txt)
 
-Tecnology: AngularJs
+Tecnology: Html, CSS, AngularJs
 
 This is a Web application for calculator.
 There are several types of calculators:
